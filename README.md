@@ -1,4 +1,4 @@
-# ComputerVision1
+# Computer Vision 1
 
 <p align="center">
 <img src="https://github.com/DidierMerk/ComputerVision1/blob/main/image_stitching.png" width="700" height="300" alt="Example of image stitching techniques from the 4th computer lab">
